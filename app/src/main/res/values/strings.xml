@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyJournel</string>
+    <string name="generic_error">Something went wrong, please try again later.</string>
+    <string name="mood_label">How do you feel right now?</string>
+    <string name="save">Save</string>
+    <string name="no_notes">No Notes found, please add by tapping on Fab icon.</string>
+    <string name="notes">Notes</string>
+    <string name="note_hint">Write here</string>
+    <plurals name="numberOfEntries">
+        <item quantity="one">%d entry</item>
+        <item quantity="other">%d entries</item>
+    </plurals>
+</resources>
